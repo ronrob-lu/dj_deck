@@ -28,13 +28,7 @@ The DJ Deck brings authenticity and style to your productions. Don't forget to t
 
 ## 📦 Installation
 
-### Method 1: ContentDB (Recommended)
-1. Open Luanti/Minetest
-2. Go to **Content** → **Browse Online**
-3. Search for "DJ Deck" or "djdeck"
-4. Click **Download** and enable the mod
-
-### Method 2: Manual Installation
+### Method 1: Manual Installation
 1. Download this mod repository
 2. Extract to your mods folder:
    - **Linux:** `~/.minetest/mods/` or `~/.luanti/mods/`
