@@ -1,0 +1,1 @@
+Nothing should be ignored in this case, as only source/config files (LICENSE.md, README.md) were added without any build artifacts, dependencies, or temporary files.
